@@ -1,1 +1,5 @@
-ova e nishto
+<<<<<<< HEAD
+ova e se
+=======
+ova e se
+>>>>>>> f595b40378af0e97579c0ab9f20fcaaf1f1a6a9d
